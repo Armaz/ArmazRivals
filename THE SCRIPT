@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Armaz/ArmazRivals/main/Rivals.Lua"))()
+--https://discord.gg/eCPwjyd9rz
